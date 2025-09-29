@@ -1,0 +1,67 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Photography"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Philosophy of Language"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Poetry"
+    ]
+  ],
+  "legacy_uid": "8708afc4-59b2-f7c2-7726-1d3477407f5b",
+  "instructors": {
+    "content": [
+      "f24a2a69-1f4c-aae8-4ead-5e8bec585d9f",
+      "feb201cd-5285-be49-1c71-01ab5905e703"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a720e587-acc3-318e-8b4d-b4452300e0c3",
+    "website": "21l-701-literary-interpretation-literature-and-photography-the-image-fall-2005"
+  },
+  "course_title": "Literary Interpretation: Literature and Photography: The Image",
+  "hide_download": true,
+  "course_description": "This course introduces the practice and theory of literary criticism. The seminar focuses on topics such as the history of critical methods and techniques, and the continuity of certain subjects in literary history. Instruction and practice in oral and written communication is a major component of the course. Other components include theory and use of figurative language and reading poetry.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.701",
+  "course_image_thumbnail": {
+    "content": "f331a99d-3206-b8a6-c43e-3a04efbe978c",
+    "website": "21l-701-literary-interpretation-literature-and-photography-the-image-fall-2005"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "site_uid": "c6d9353c-f797-4add-b5ca-766cbf891ca8",
+  "site_short_id": "21l.701-fall-2005",
+  "site_url_path": "courses/21l-701-literary-interpretation-literature-and-photography-the-image-fall-2005",
+  "title": "Course Metadata"
+}
